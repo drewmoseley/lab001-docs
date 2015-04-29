@@ -47,8 +47,8 @@ The following MQTT topics will be used for this lab:
 ### Useful resources
 - [Raspberry PI Source for the Lab](https://github.com/CharlotteIoT/Lab001-pi) - if you want to look over the source for the lab.
 - [Setting up the SD Image for the Lab](SetupSDImage.md) - If you want to create your own image for this lab then follow these instructions.  Note: this is done for you if you are attending the lab.
-- [Windows tools for the Lab](https://github.com/CharlotteIoT/lab001-win) - If you are the instructor for the lab then these are the tools you need to run on your laptop. 
+- [Instructor tools for the Lab](https://github.com/CharlotteIoT/lab001-win) - If you are the instructor for the lab then these are the tools you need to run on your laptop. 
 - [Logitech Media Server](http://allthingspi.webspace.virginmedia.com/lms.php) - How to guide on setting up a media server on the Raspberry PI.
-- [Logitech Media Sever Downloads](http://downloads.slimdevices.com/nightly/?ver=7.7) - You can get a windows install from here.
+- [Logitech Media Sever Downloads](http://downloads.slimdevices.com/LogitechMediaServer_v7.8.0/LogitechMediaServer-7.8.0.exe "Windows Host") or (http://downloads.slimdevices.com/LogitechMediaServer_v7.7.5/LogitechMediaServer-7.7.5.pkg "Mac Host")
 - [Squeezelite Client](http://www.gerrelt.nl/RaspberryPi/wordpress/tutorial-installing-squeezelite-player-on-raspbian/) - How to guide on setting up a client that connects to Logitech Media Server.
 - [MQTT Manpages](http://mosquitto.org/man/mqtt-7.html) - Some quick info on MQTT.
